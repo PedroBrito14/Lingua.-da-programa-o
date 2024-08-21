@@ -13,7 +13,7 @@ Bibliotecas e Frameworks: Possui uma rica coleção de bibliotecas e frameworks 
 Exemplo de Código:
 
 python
-# Programa para calcular a soma de dois números
+Programa para calcular a soma de dois números
 def soma(a, b):
     return a + b
 print(soma(5, 3))  # Saída: 8
